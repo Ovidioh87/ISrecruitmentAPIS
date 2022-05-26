@@ -1,0 +1,29 @@
+{
+  "name": "isrecruitmentapis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovidioh87/ISrecruitmentAPIS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ovidioh87/ISrecruitmentAPIS/issues"
+  },
+  "homepage": "https://github.com/Ovidioh87/ISrecruitmentAPIS#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
