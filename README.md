@@ -26,3 +26,6 @@ La conexi√≥n estblecida es para una base de datos MySQL local, la cual la mayor√
     password: '',
     database: 'recruitment'
 
+
+Para levantar el servidor NodeJS ejecutar el comando:
+npm run dev
